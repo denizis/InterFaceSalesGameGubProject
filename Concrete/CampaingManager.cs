@@ -22,7 +22,7 @@ namespace GameHub.Concrete
 
         public void Campaing_Update(Campaign campaign)
         {
-            Console.WriteLine("Kampanya Silindi" + campaign.Campaign_name);
+            Console.WriteLine("Kampanya Güncellendi" + campaign.Campaign_name);
         }
     }
 }
