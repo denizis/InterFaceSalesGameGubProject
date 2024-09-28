@@ -1,3 +1,10 @@
+
+
+
+![GamehubPicture](https://github.com/user-attachments/assets/1a281a13-9561-436e-9dfe-f5771e450fe4)
+
+
+
 Game Sales System
 
 This project is a C#-based application that simulates a game sales system.
